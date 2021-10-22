@@ -92,3 +92,17 @@ Por ejemplo:
 - "¿Dónde vives?" -> ¿Por qué quieres saber eso?
 - "¿Cuál es tu número de teléfono?" -> ¿Por qué es importante?
 
+### Datos de la ingeniería social
+
+Datos duros: El 80% de los ataques informáticos se deben a errores relacionados con el factor humano y no a temas específicos de tecnología.
+
+> La ingeniería social es la técnica más eficaz para hacerse con secretos celosamente protegidos, ya que no requiere de una sólida formación ténica, ni de grandes conocimientos sobre protocolos y sistemas operativos.
+
+Persuación, buena apareciencia, facilidad de palabra, ganar confianza...
+
+> Quienes practican la ingeniería social requieren solamente de astucia, paciencia y una buena dosis de psicología.
+
+Ayuda mucho entender *el porqué* de las cosas. Debes saber *dónde* y *cómo* buscar.
+
+Debes tener *paciencia*. Si eres muy agresivo, la persona se va a asustar. Estos ataques toman mucho tiempo por el tema de la confianza.
+
