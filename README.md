@@ -63,3 +63,32 @@ La parte *ética* es la *más importante*.
 
 [Asosoación Mexicana de Ciberseguridad](https://www.ameci.org/index.php/servicios-seguridad/servicio-pentesting/phishing-ingenieria-social)
 
+### ¿Por qué funciona la ingeniería social?
+
+Junta 2 elementos importantes:
+
+1. Ciencias de cómputo
+2. Psicología social
+
+Además, un investigador llamado Willi, encontró 3 aspectos:
+
+1. Los seres humanos siempre están dispuestos a confiar.
+2. Hay una tendencia a la distracción.
+3. Tenemos atención selectiva -> Quiere decir que si nos enfocamos en 1 cosa, no le prestamos atención a las demás cosas. **Esto es la base para la ingeniería social**. Se conoce como **ataque de sentido de urgencia**.
+
+Hay 2 maneras en que se maneja la confianza en las personas:
+
+1. Tienes toda la confianza y vas restando puntos si ocurren cosas negativas.
+2. Tienes 0 confianza y vas sumando puntos si ocurren cosas positivas.
+
+La mayoría de los ataques van dirigidos a las personas **sin conocimientos técnicos**. He ahí la frase:
+
+> Las personas son el eslabón más débil.
+
+Para evitar ser atacado con las estrategías de ingeniería social, tienes que aprender a decir ***NO*** y también a contestar a las preguntas con más preguntas.
+
+Por ejemplo:
+
+- "¿Dónde vives?" -> ¿Por qué quieres saber eso?
+- "¿Cuál es tu número de teléfono?" -> ¿Por qué es importante?
+
