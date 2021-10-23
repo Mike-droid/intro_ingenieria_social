@@ -150,3 +150,33 @@ Busca a una persona que:
 - Cuente con amplia presencia en redes sociales.
 - Una persona que exhiba la característica de ser muy sociable.
 
+## Principios de la ingeniería social
+
+### Principios de la ingeniería social según Kevin Mitnick y Robert Cialdini
+
+Mitnick fundamenta las estrategias de ingeniería social en los siguientes postulados:
+
+- Todos los seres humanos quieren ayudar.
+- El primer movimiento es siempre de confianza hacia el otro.
+- No nos gusta decir que no.
+- A todos nos gusta que nos alaben.
+- La ingeniería social utiliza la influencia y la persuasión para engañar a la gente.
+- El ingeniero social es capaz de aprovecharse de la gente para obtener información con o sin el uso de la tecnología.
+- Usted puede tener la mejor tecnología, firewalls, sistemas de detección de ataques, dispositivos biométricos, etc.
+- Lo único que se necesita es un llamado a un empleado desprevenido. Tienen todo en sus manos.
+
+Los 6 principios de persuasión de Cialdini
+
+1. El principio de escasez. -> Ejemplo: "Compra esto antes de que se acabe".
+2. El principio de prueba social. -> Todos queremos ser aceptados y pertencer a un grupo y hacemos cualquier cosa para hacerlo.
+3. El principio de autoridad. -> Tener autoridad te hace tener control sobre las personas.
+4. El principio de simpatía. -> Te sientes más cómodos con personas que te caen bien y por lo tanto, será más fácil que entres en confianza.
+5. El prinpio de consistencia y compromiso. -> Si comenzaste algo, vas a seguir hasta el final.
+6. El principio de reciprocidad. -> "Tú me das, yo te doy. Tú me hiciste algo, yo te haré algo".
+
+La persuasión es propiedad del atacante, **NO** de la víctima. El atacante debe tener la habilidad de persuadir.
+
+Escenario + Ataque + Aplicación de principios = Éxito
+
+Mientras más principios uses, en conjunto, será más probable que tengas éxito.
+
