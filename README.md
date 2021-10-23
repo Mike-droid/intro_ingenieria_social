@@ -106,3 +106,47 @@ Ayuda mucho entender *el porqué* de las cosas. Debes saber *dónde* y *cómo* b
 
 Debes tener *paciencia*. Si eres muy agresivo, la persona se va a asustar. Estos ataques toman mucho tiempo por el tema de la confianza.
 
+### Metas de la ingeniería social
+
+Motivos:
+
+- Curiosidad
+- Venganza
+- Beneficio personal o económico
+- Diversión
+- Desafío
+- Acceso a la información
+- Autorización
+- Confianza
+- Dinero
+- Reputación
+- Cometer fraude
+- Espionaje industrial
+- Robo de identidad
+- Irrumpir en los sistemas/redes
+
+Estas son las motivaciones de un atacante no ético.
+
+Personal administrativo más susceptible a los ataques por ingeniería social
+
+- Recepciosnitas
+- Vendedores
+- Personal de nómina
+- Recursos humanos
+- Personal de finanzas
+- Administración de oficinas
+
+Esas personas están siempre en contacto con las personas.
+
+Entonces el ingeniero social tendrá más atracción con esas personas porque ellas tienen *información*.
+
+#### Cómo escoger un buen objetivo
+
+Busca a una persona que:
+
+- Trabaje en áreas donde tenga mucho contacto con el públio.
+- Sea empleada en una compañía con el objetivo.
+- Sea familiar/amigo del objetivo.
+- Cuente con amplia presencia en redes sociales.
+- Una persona que exhiba la característica de ser muy sociable.
+
