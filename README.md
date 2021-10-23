@@ -180,3 +180,39 @@ Escenario + Ataque + Aplicación de principios = Éxito
 
 Mientras más principios uses, en conjunto, será más probable que tengas éxito.
 
+### Principios de la ingeniería social a detalle
+
+1. Reciprocidad -> La reciprocidad es un instinto social fácilmente manipulable.
+2. Urgencia y escasez -> "Haz click aquí ahora para eliminar el virus"
+3. Consistencia -> Esto hay que hacerlo poco a poco, paso a paso con pequeñas acciones.
+4. Simpatía -> Darás más información a quien te cae bien.
+5. Autoridad -> Darás más información a quien percibas como la figura de autoridad.
+6. Validacón social -> Ejemplo; cuando escuchamos algo que nos parece incómodo de hacer, pero si vemos que todo el mundo lo hace, seguramente tú también lo harás.
+
+[El caso de Robin Sage](https://drive.google.com/file/d/18JPBgOG0k1GAuU46SFOhH3JhRqIzcqIN/view)
+
+### Perfil del ingeniero(a) social
+
+Tienes que pensar como un hacker malicioso para poder defenderte de él.
+
+Cualidades
+
+- Capacidad de socializar con facilidad.
+- Habilidad en el hablar.
+- Habilidad en el arte de persuasión.
+- Sonar convincente. -> Mirar a los ojos, pose recta, mencionar el nombre de la persona, estar relajado.
+- Aparentar ser inofensivo -> No hables mucho de ti mismo, muéstrate humilde
+- Mantener un perfil bajo.
+- Sonreír siempre.
+- Tono de voz cómodo.
+
+¿Cómo identificas a estas personas?
+
+**Presta atención a las microexpresiones**.
+
+Pero esto es muy difícil.
+
+Los ingenieros sociales usan una presión social amable para obtener información.
+
+Una víctima debe estar **muy atenta a todo lo que se pregunta**, independientemente de lo que se dijo antes o después, sin tener miedo por preguntar por su derecho a saber una información delicada.
+
