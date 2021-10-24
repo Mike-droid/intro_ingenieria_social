@@ -234,3 +234,15 @@ Estrategia basada en humanos:
 - Organización privada.
 
 Pro tip: Usa trituradoras del papel donde hay información sensible. **Destruye** esos papales.
+
+### Tipos de ingeniería social: basada en computadoras
+
+Ejemplos:
+
+- Email con malware.
+- Spam (correo no deseado).
+- Cadenas cartas (chain letters).
+- Emails de engaño (hoaxes).
+- "Phishing".
+- Instalando un keylogger (tanto software como hardware).
+
