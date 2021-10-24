@@ -288,3 +288,7 @@ En el contexto de la ingeniería social, es la forma de obtención de informaci�
 
 Aquí debes tener confianza, facilidad de palabra, saber leer a las personas, tener buen lenguaje corporal, saber hacer las preguntas correctas.
 
+### Estrategias y respuestas a la elicitación
+
+Para evitar ser víctima de la elicitación, **nunca** des información a personal no autorizado. Solamente responde con información de dominio público, incluso puedes ignorar las preguntas y cambiar de tema.
+Hazte el tonto, responde con otra pregunta, pregunta  por qué te hacen la pregunta, da una respuesta mediocre.
