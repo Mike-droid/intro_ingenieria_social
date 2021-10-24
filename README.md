@@ -278,3 +278,13 @@ Consultar diapositiva 109.
 - Tailgating -> Es obtener acceso no autorizado a un área restringida mediante el engaño o el descuido de la una persona que sí tiene la autorización.
 - Piggybacking -> La persona te da acceso voluntariamente al área restringida.
 
+## Elicitación
+
+### ¿Qué es la elicitación y por qué es tan exitosa?
+
+> Elicitación es un térmio asociado al traspaso de información de forma fluída de un ser humano a otro por medio del lenguaje.
+
+En el contexto de la ingeniería social, es la forma de obtención de información a través de preguntas indirectas como parte de una conversación.
+
+Aquí debes tener confianza, facilidad de palabra, saber leer a las personas, tener buen lenguaje corporal, saber hacer las preguntas correctas.
+
