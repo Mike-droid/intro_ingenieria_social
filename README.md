@@ -216,3 +216,21 @@ Los ingenieros sociales usan una presión social amable para obtener informació
 
 Una víctima debe estar **muy atenta a todo lo que se pregunta**, independientemente de lo que se dijo antes o después, sin tener miedo por preguntar por su derecho a saber una información delicada.
 
+## Tipos de ingeniería social
+
+### Tipos de ingeniería social: basada en humanos
+
+- La ingeniería social basada en humanos consiste en recolectar información sensible mediante la interacción entre humanos.
+- La ingeniería social basada en tecnología se llave a cabo con la ayuda de las computadoras.
+
+Estrategia basada en humanos:
+
+- Imitando ser un usuario legítimo.
+- Imitando ser una persona importante (alto rango, autoridad).
+- Imitando ser personal técnico.
+- Espiar por encima de su hombro (shoulder surfing).
+- "Dumpster diving" Buscar en la basura.
+- En persona
+- Organización privada.
+
+Pro tip: Usa trituradoras del papel donde hay información sensible. **Destruye** esos papales.
