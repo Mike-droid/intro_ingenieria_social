@@ -246,3 +246,13 @@ Ejemplos:
 - "Phishing".
 - Instalando un keylogger (tanto software como hardware).
 
+[Make your own rubber ducky](https://thehacktoday.com/make-your-own-usb-rubber-ducky/)
+
+### Taxonomía de la ingeniería social: marco de ataque
+
+Consultar diapositiva 107.
+
+### Taxonomía de los ataques
+
+Consultar diapositiva 109.
+
