@@ -292,3 +292,21 @@ Aquí debes tener confianza, facilidad de palabra, saber leer a las personas, te
 
 Para evitar ser víctima de la elicitación, **nunca** des información a personal no autorizado. Solamente responde con información de dominio público, incluso puedes ignorar las preguntas y cambiar de tema.
 Hazte el tonto, responde con otra pregunta, pregunta  por qué te hacen la pregunta, da una respuesta mediocre.
+
+## Pretexting
+
+### ¿Qué es el pretexting y cuál es su proceso. ¿Es ilegal?
+
+Es una forma de ingeniería social que consiste en hacerse pasar por otra persona con el fin de obtener información privada y privilegiada.
+
+En EEUU, el pretexting es *ilegal*.
+
+Hay 4 procesos en la planificación del pretexting:
+
+1. Propósito -> Determinar cómo vamos a acceder a la información (pero antes ya tuvimos que investigar al objetivo).
+2. Preparación / Desarrollo -> [Plantilla para pretexting](https://docs.google.com/document/d/19puqDZFn7H_4qjNckvqXhoz5HoCnwI1ioLGnwZWyAOQ/edit).
+3. Práctica -> Es la parte más díficil, hay que ensayar, aquí está la perfección.
+4. Ejecución -> Si haces una buena práctica, tendrás una buena ejecución.
+
+[Qué es OSNIT](https://ciberpatrulla.com/que-es-osint/)
+
