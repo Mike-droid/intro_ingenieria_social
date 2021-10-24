@@ -256,3 +256,9 @@ Consultar diapositiva 107.
 
 Consultar diapositiva 109.
 
+## Ataques de ingeniería social
+
+### Ejemplos de ataques de la ingeniería social: Baiting y Phishing
+
+- Carnada -> Por ejemplo regocer una USB tirada y conectarla en tu PC. Estas USB tienen código malicioso. Existen las famosas Rubber Ducky.
+- Phishing -> Darle click a enlaces peligrosos. Introducir tu correo electrónico y contraseña.
