@@ -262,3 +262,11 @@ Consultar diapositiva 109.
 
 - Carnada -> Por ejemplo regocer una USB tirada y conectarla en tu PC. Estas USB tienen código malicioso. Existen las famosas Rubber Ducky.
 - Phishing -> Darle click a enlaces peligrosos. Introducir tu correo electrónico y contraseña.
+
+### Ejemplos de ataques de ingeniería social: Pretexting, Sextortion, Dumpster Diving, Quid Pro Quo
+
+- Pretexting/Pretexto -> El atacante simula situaciones ficticias para obtener información personal, sensible o privilegiada y utilizarla con fines delictivos.
+- Sextorsión -> Chantajear a la víctima para que envié dinero a cambio de no distribuir imágenes comprometedoras.
+- Shoulder surfing -> Literalmente es estar detrás de una persona que está usando una computadora y ver qué hace, mirar sus datos. También sirve ver el escritorio de la persona.
+- Dumpster Diving -> Ver qué cosas importantes hay en la basura.
+- Quid Pro Quo "Una cosa por otra cosa" -> Dar premios, regalos, recompensas al usuario después de que hayan llenado un formulario con sus datos. Otra manera de engañar.
