@@ -270,3 +270,11 @@ Consultar diapositiva 109.
 - Shoulder surfing -> Literalmente es estar detrás de una persona que está usando una computadora y ver qué hace, mirar sus datos. También sirve ver el escritorio de la persona.
 - Dumpster Diving -> Ver qué cosas importantes hay en la basura.
 - Quid Pro Quo "Una cosa por otra cosa" -> Dar premios, regalos, recompensas al usuario después de que hayan llenado un formulario con sus datos. Otra manera de engañar.
+
+### Ejemplos de ataques de ingeniería social: Vishing, Fake News, Tailgating, Piggybacking
+
+- Vishing -> Combinación de voice y phising. Consiste en suplantar la identidad de una persona con la voz de esa persona. Se usa un contestador automático que le pide a un usuario, a tráves de una llamada teléfonica que diga información confidencial.
+- Fake News -> Esto es con el fin de que mucha gente interactue, son un gancho, se pueden recopilar muchos datos.
+- Tailgating -> Es obtener acceso no autorizado a un área restringida mediante el engaño o el descuido de la una persona que sí tiene la autorización.
+- Piggybacking -> La persona te da acceso voluntariamente al área restringida.
+
