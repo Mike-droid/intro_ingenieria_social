@@ -331,3 +331,16 @@ Hay 2 modalidades de Deepfake:
 
 1. Deepface: Poner un rostro encima de otro
 2. Deepvoice: Unir frases y palabras, tomarlas para crear frases que el atacante desee.
+
+### Aplicaciones disponibles para crear Deepfake
+
+- faceswap
+- faceswap web
+- [Descript](https://www.descript.com/overdub)
+
+#### ¿Cómo se hace un deepfake?
+
+- Descargar software
+- Recopilas vídeos de las personas con quienes quieres intercambiar y los cargas al programa
+
+Mientras más vídeos uses con diferentes iluminaciones, ángulos, gestos, etc, será mejor.
