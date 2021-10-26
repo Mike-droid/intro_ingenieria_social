@@ -310,3 +310,24 @@ Hay 4 procesos en la planificación del pretexting:
 
 [Qué es OSNIT](https://ciberpatrulla.com/que-es-osint/)
 
+## Deepfake
+
+### Qué slos Deepfake y sus tipos
+
+Es la combinación de la inteligencia artificial con algo falso.
+
+Es un vídeo, foto o un audio que parece real pero ha sido manipulado con la inteligencia artificial.
+
+Hay 2 modalidades de Deepfake:
+
+1. Deepface: Poner un rostro encima de otro
+2. Deepvoice: Unir frases y palabras, tomarlas para crear frases que el atacante desee### Qué slos Deepfake y sus tipos
+
+Es la combinación de la inteligencia artificial con algo falso.
+
+Es un vídeo, foto o un audio que parece real pero ha sido manipulado con la inteligencia artificial.
+
+Hay 2 modalidades de Deepfake:
+
+1. Deepface: Poner un rostro encima de otro
+2. Deepvoice: Unir frases y palabras, tomarlas para crear frases que el atacante desee.
