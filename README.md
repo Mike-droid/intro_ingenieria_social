@@ -344,3 +344,37 @@ Hay 2 modalidades de Deepfake:
 - Recopilas vídeos de las personas con quienes quieres intercambiar y los cargas al programa
 
 Mientras más vídeos uses con diferentes iluminaciones, ángulos, gestos, etc, será mejor.
+
+### Relación del Deepfake, la ingeniería social y cómo detectarlos
+
+Las noticias falsas se extienen más rápidas que las verdaderas y tienen 70% de probabilidades de ser replicadas.
+
+Latinoamérica tiene muchísimas personas que no reconocen fake news.
+
+> El problema central con los "Deepfakes" de audio tiene que ver con capturar no solo el tono de la persona, sino también los gestos específicos del habla.
+
+Cada vez es más común ver ataques de hacking con deepfakes.
+
+Para detectar un deepfake:
+
+- Movimiento NO natural de los ojos
+- Expresiones faciles NO naturales
+- Observar la posición de la nariz
+- Falta de epresión y emoción
+- Observar la postura del cuerpo
+- Movimientos del cuepo no naturales
+- Tono de la piel
+- Observar el cabello y los movimientos
+- Observar los dientes que no lucen naturales
+- Inconsistencia en el audio y sonido del video
+- Imágenes no parecen reales cuando se disminuye la velocidad del audio/video
+
+[Prueba para detectar deepfakes](https://detectfakes.media.mit.edu/)
+
+### Herramientas de detección de Deepfake
+
+Los deepfake y fake news son una amenaza para la humanidad.
+
+[Sensity](https://sensity.ai/)
+
+[Reality Defender](https://rd2020.org/)
