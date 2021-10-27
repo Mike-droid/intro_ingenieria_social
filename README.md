@@ -383,3 +383,16 @@ Los deepfake y fake news son una amenaza para la humanidad.
 
 Se pueden crear videos porno falsos que afecten a las víctimas de quien se usa su rostro/audio.
 
+## Construyendo el muro humano y contramedidas
+
+### Medidas de prevención, protección y cómo crear una cultura de seguridad
+
+Debemos aceptar que los ataques de ingeniería social son MUY probables. Hay que reconocer los "trucos".
+
+Hay que tener buena educación, criterio y tecnología.
+
+### Cómo protegerse y recomendaciones
+
+La mejor protección es **el conocimiento**.
+
+NUNCA reveles información confidencial.
