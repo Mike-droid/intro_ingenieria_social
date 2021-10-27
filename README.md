@@ -378,3 +378,8 @@ Los deepfake y fake news son una amenaza para la humanidad.
 [Sensity](https://sensity.ai/)
 
 [Reality Defender](https://rd2020.org/)
+
+### Retos de los procesos de investigación forense en Deepfake
+
+Se pueden crear videos porno falsos que afecten a las víctimas de quien se usa su rostro/audio.
+
