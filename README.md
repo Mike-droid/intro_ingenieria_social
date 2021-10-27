@@ -396,3 +396,7 @@ Hay que tener buena educación, criterio y tecnología.
 La mejor protección es **el conocimiento**.
 
 NUNCA reveles información confidencial.
+
+## Proyecto
+
+### Creando un escenario de pretexting
